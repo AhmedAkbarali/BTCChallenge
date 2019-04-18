@@ -1,0 +1,27 @@
+{
+  "name": "btcchallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "blockcypher": "^0.2.0",
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "requirejs": "^2.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedAkbarali/BTCChallenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedAkbarali/BTCChallenge/issues"
+  },
+  "homepage": "https://github.com/AhmedAkbarali/BTCChallenge#readme"
+}
